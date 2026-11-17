@@ -1,0 +1,4 @@
+include(./windows-msvc195-x64-md)
+
+[conf]
+tools.cmake.cmaketoolchain:generator=Ninja

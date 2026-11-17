@@ -1,0 +1,4 @@
+include(./windows-msvc194-x64-md)
+
+[settings]
+compiler.version=195
