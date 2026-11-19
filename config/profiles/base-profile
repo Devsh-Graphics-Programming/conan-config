@@ -9,6 +9,7 @@ imath/*:shared=False
 libdeflate/*:shared=False
 expat/*:shared=False
 libjpeg-turbo/*:shared=False
+libtiff/*:jpeg=libjpeg-turbo
 libpng/*:shared=False
 lz4/*:shared=False
 onetbb/*:shared=False
