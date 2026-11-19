@@ -1,7 +1,6 @@
 [options]
 blake3/*:shared=False
 boost/*:shared=False
-boost/*:magic_autolink=True
 boost/*:without_test=True
 boost/*:without_cobalt=True
 bzip2/*:shared=False
