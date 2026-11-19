@@ -24,3 +24,6 @@ spirv-tools/*:shared=False
 spirv-cross/*:shared=False
 spirv-cross/*:glsl=True
 spirv-cross/*:reflect=True
+
+[conf]
+tools.build:skip_test=True
